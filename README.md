@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Steven, @StevieoXOR
 - 👀 I’m interested in learning everything I can.
 - 🌱 I’m currently learning C#, C++, Python, HTML, JS.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me: steven0011224488@gmail.com
 
 <!---
